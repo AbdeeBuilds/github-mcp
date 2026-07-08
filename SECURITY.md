@@ -5,7 +5,7 @@
 **Do not file a public GitHub issue for security bugs.**
 
 Email `security@hermes-agent.dev` (or open a private advisory via
-[GitHub Security Advisories](https://github.com/hermes-agent/github-mcp/security/advisories/new))
+[GitHub Security Advisories](https://github.com/AbdeeBuilds/github-mcp/security/advisories/new))
 with:
 - Description of the vulnerability and impact
 - Reproduction steps

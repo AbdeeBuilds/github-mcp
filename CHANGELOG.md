@@ -52,5 +52,5 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 - Smoke test guide (`SMOKE_TEST.md`).
 - README, LICENSE (MIT), AUTH, USAGE docs.
 
-[0.2.0]: https://github.com/hermes-agent/github-mcp/compare/v0.1.0...v0.2.0
-[0.1.0]: https://github.com/hermes-agent/github-mcp/releases/tag/v0.1.0
+[0.2.0]: https://github.com/AbdeeBuilds/github-mcp/compare/v0.1.0...v0.2.0
+[0.1.0]: https://github.com/AbdeeBuilds/github-mcp/releases/tag/v0.1.0

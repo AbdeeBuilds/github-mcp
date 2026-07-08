@@ -44,9 +44,9 @@ dev = [
 github-mcp = "github_mcp.server:main"
 
 [project.urls]
-Homepage = "https://github.com/hermes-agent/github-mcp"
-Issues = "https://github.com/hermes-agent/github-mcp/issues"
-Changelog = "https://github.com/hermes-agent/github-mcp/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/AbdeeBuilds/github-mcp"
+Issues = "https://github.com/AbdeeBuilds/github-mcp/issues"
+Changelog = "https://github.com/AbdeeBuilds/github-mcp/blob/main/CHANGELOG.md"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/github_mcp"]

@@ -1,6 +1,6 @@
 # github-mcp
 
-[![Tests](https://github.com/hermes-agent/github-mcp/actions/workflows/test.yml/badge.svg)](https://github.com/hermes-agent/github-mcp/actions/workflows/test.yml)
+[![Tests](https://github.com/AbdeeBuilds/github-mcp/actions/workflows/test.yml/badge.svg)](https://github.com/AbdeeBuilds/github-mcp/actions/workflows/test.yml)
 [![PyPI version](https://img.shields.io/pypi/v/github-mcp.svg)](https://pypi.org/project/github-mcp/)
 [![Python](https://img.shields.io/pypi/pyversions/github-mcp.svg)](https://pypi.org/project/github-mcp/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -105,7 +105,7 @@ See your client's docs for adding a stdio MCP server. Command: `github-mcp`. Env
 ## Development
 
 ```bash
-git clone https://github.com/hermes-agent/github-mcp
+git clone https://github.com/AbdeeBuilds/github-mcp
 cd github-mcp
 python -m venv .venv
 source .venv/Scripts/activate   # Git Bash on Windows

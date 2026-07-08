@@ -5,7 +5,7 @@ Thanks for your interest in improving `github-mcp`!
 ## Setup
 
 ```bash
-git clone https://github.com/hermes-agent/github-mcp
+git clone https://github.com/AbdeeBuilds/github-mcp
 cd github-mcp
 python -m venv .venv
 source .venv/Scripts/activate   # Git Bash on Windows
